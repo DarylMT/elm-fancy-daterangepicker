@@ -3,7 +3,7 @@
     "name": "darylmt/elm-fancy-daterangepicker",
     "summary": "A fancy daterangepicker in elm.",
     "license": "BSD-3-Clause",
-    "version": "4.0.1",
+    "version": "1.0.0",
     "exposed-modules": [
         "DateRangePicker",
         "DatePicker",
